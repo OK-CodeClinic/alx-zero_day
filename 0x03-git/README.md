@@ -1,1 +1,2 @@
-My 2nd Readme
+
+Git project Readme updated version
